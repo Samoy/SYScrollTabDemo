@@ -15,6 +15,7 @@
 		A43FBEE51FF33C0800A02802 /* SYScrollTabDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43FBEE41FF33C0800A02802 /* SYScrollTabDemoTests.swift */; };
 		A43FBEF01FF33C0800A02802 /* SYScrollTabDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43FBEEF1FF33C0800A02802 /* SYScrollTabDemoUITests.swift */; };
 		A43FBEFF1FF33C5200A02802 /* SYScrollTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43FBEFE1FF33C5200A02802 /* SYScrollTab.swift */; };
+		A4927F471FF3A1F60041EFE6 /* screentshot.gif in Resources */ = {isa = PBXBuildFile; fileRef = A4927F461FF3A1F60041EFE6 /* screentshot.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A43FBEEF1FF33C0800A02802 /* SYScrollTabDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SYScrollTabDemoUITests.swift; sourceTree = "<group>"; };
 		A43FBEF11FF33C0800A02802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A43FBEFE1FF33C5200A02802 /* SYScrollTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SYScrollTab.swift; sourceTree = "<group>"; };
+		A4927F461FF3A1F60041EFE6 /* screentshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screentshot.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		A43FBECE1FF33C0700A02802 /* SYScrollTabDemo */ = {
 			isa = PBXGroup;
 			children = (
+				A4927F461FF3A1F60041EFE6 /* screentshot.gif */,
 				A43FBEFD1FF33C1100A02802 /* SYScrollTab */,
 				A43FBECF1FF33C0700A02802 /* AppDelegate.swift */,
 				A43FBED11FF33C0700A02802 /* ViewController.swift */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A43FBEDA1FF33C0700A02802 /* LaunchScreen.storyboard in Resources */,
+				A4927F471FF3A1F60041EFE6 /* screentshot.gif in Resources */,
 				A43FBED71FF33C0700A02802 /* Assets.xcassets in Resources */,
 				A43FBED51FF33C0700A02802 /* Main.storyboard in Resources */,
 			);
